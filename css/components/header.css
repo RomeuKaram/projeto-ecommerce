@@ -10,12 +10,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 28px;
+    padding: 0.265rem 1.25rem;
     background-color: #ffffff;
 }
 
 .logo img{
-    height: 40px;
+    height: 48px;
 }
 
 .nav-center ul{
@@ -25,6 +25,7 @@
 
 .nav-center a, .nav-right {
     font-size: 1.25rem;
+    color: #333333;
 }
 
 .nav-center a:hover, .nav-right a:hover{
